@@ -7,7 +7,7 @@
 
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
-#  dc: Data Carpentry
+dc: Data Carpentry
 #  lc: Library Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
 #  incubator: for workshops teaching a lesson in The Carpentries Incubator
@@ -27,7 +27,7 @@ carpentry: "swc"
 # Possible values are:
 # dc-astronomy:     for Data Carpentry Astronomy
 # dc-ecology:       for Data Carpentry Ecology
-# dc-genomics:      for Data Carpentry Genomics
+dc-genomics:      for Data Carpentry Genomics
 # dc-socsci:        for Data Carpentry Social Sciences
 # dc-geospatial:    for Data Carpentry Geospatial
 # dc-image:         for Data Carpentry Image Processing
@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Genomics Workshop"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
