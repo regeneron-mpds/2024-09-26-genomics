@@ -7,7 +7,7 @@
 
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
-dc: Data Carpentry
+#dc: Data Carpentry
 #  lc: Library Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
 #  incubator: for workshops teaching a lesson in The Carpentries Incubator
@@ -18,7 +18,7 @@ dc: Data Carpentry
 # When setting this field to "incubator", please uncomment the
 # incubator_lesson_site, incubator_pre_survey, and incubator_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "dc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -27,13 +27,13 @@ carpentry: "swc"
 # Possible values are:
 # dc-astronomy:     for Data Carpentry Astronomy
 # dc-ecology:       for Data Carpentry Ecology
-dc-genomics:      for Data Carpentry Genomics
+#dc-genomics:      #for Data Carpentry Genomics
 # dc-socsci:        for Data Carpentry Social Sciences
 # dc-geospatial:    for Data Carpentry Geospatial
 # dc-image:         for Data Carpentry Image Processing
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder:    for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "dc-genomics"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
